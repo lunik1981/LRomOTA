@@ -9,7 +9,7 @@
   <CheckMD5>89daf54aacc60edf85a1c87b8ef4ed79</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
   <FileSize type="integer">424213792</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
   <Developer>Lunik</Developer> <!-- Ник, имя разработчика'ов -->
-  <Website nil="http://l-rom.ru" /> <!-- Web сайт прошивки или чего нибудь другого, на усмотрение -->
+  <WebsiteURL>http://l-rom.ru</WebsiteURL> <!-- Web сайт прошивки или чего нибудь другого, на усмотрение -->
   <DonateURL>https://money.yandex.ru/to/410014048608604?_openstat=template%3Bipulldown%3Btopupme</DonateURL> <!-- Ссылка для установки реквезитов для пожертвований -->
   <Changelog>### Изменения версии 13.05.17
 * Добавили "Дополнительные настройки"
