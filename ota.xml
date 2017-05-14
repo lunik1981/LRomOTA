@@ -10,6 +10,10 @@
   <FileSize type="integer">424213792</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
   <Developer>Lunik</Developer> <!-- Ник, имя разработчика'ов -->
   <WebsiteURL>http://l-rom.ru</WebsiteURL> <!-- Web сайт прошивки или чего нибудь другого, на усмотрение -->
+  <AddonCount>2</AddonCount>
+  <AddonsURL>
+  https://raw.githubusercontent.com/lunik1981/my-aex-ota/master/addons.xml
+  </AddonsURL>
   <DonateURL>https://money.yandex.ru/to/410014048608604?_openstat=template%3Bipulldown%3Btopupme</DonateURL> <!-- Ссылка для установки реквезитов для пожертвований -->
   <Changelog>### Изменения версии 13.05.17
 * Добавили "Дополнительные настройки"
