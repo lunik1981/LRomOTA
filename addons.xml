@@ -5,10 +5,10 @@
             <id>1</id> <!-- Use integers only, make them unique -->
             <name>Accuweather</name> <!-- The name, simples -->
             <description>Accuweather Daemon and Widgets</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-05-16</updated-at> <!-- Must be in yyyy-mm-dd format -->
+            <updated-at>2014-12-24</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>9001027</size> <!-- filesize in bytes -->
             <download-link>
-            https://cloud.mail.ru/public/KcGS/NM8awMMjT
+            http://xyyx-dev.ru/nitrogen-os/nougat/geehrc/addon1.zip
             </download-link>
         </addon>
         <addon>
@@ -18,7 +18,7 @@
             <updated-at>2014-10-14</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>5427814</size> <!-- filesize in bytes -->
             <download-link>
-            https://cloud.mail.ru/public/KcGS/NM8awMMjT
+            http://xyyx-dev.ru/nitrogen-os/nougat/geehrc/addon2.zip
             </download-link>
         </addon>
     </addons>
