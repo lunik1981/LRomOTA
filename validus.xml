@@ -3,11 +3,11 @@
   <RomName>Validus</RomName> <!-- Название прошивки -->
   <VersionName>Validus-primel-7.1.2.RC</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
   <VersionNumber type="integer">20170518</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-  <DirectUrl>https://cloclo28.cldmail.ru/2b8iQ52DEQ8a2rqGHZEY/G/JGaT/i4JyZdLjc?key=6e805eb7aedde641dddabbc2585ff82b2606ac0f</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-  <HttpUrl>https://cloclo28.cldmail.ru/2b8iQ52DEQ8a2rqGHZEY/G/JGaT/i4JyZdLjc?key=6e805eb7aedde641dddabbc2585ff82b2606ac0f</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <DirectUrl>http://l-rom.ru/Validus-primel-7.1.2.RC_L-ROM.RU.14.2-UNOFFICIAL-20170515-1237.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>http://l-rom.ru/Validus-primel-7.1.2.RC_L-ROM.RU.14.2-UNOFFICIAL-20170515-1237.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>7.1.2</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
   <CheckMD5>89daf54aacc60edf85a1c87b8ef4ed79</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
-  <FileSize type="integer">424213792</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
+  <FileSize type="integer">450351176</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
   <Developer>Lunik</Developer> <!-- Ник, имя разработчика'ов -->
   <WebsiteURL>http://l-rom.ru</WebsiteURL> <!-- Web сайт прошивки или чего нибудь другого, на усмотрение -->
   <AddonCount>2</AddonCount>
