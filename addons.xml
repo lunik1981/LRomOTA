@@ -5,9 +5,17 @@
             <id>1</id>
             <name>Magisk Uninstaller</name>
             <description>Use ROM without root</description>
-            <published-at>2017-03-20</published-at>
+            <published-at>2017-05-15</published-at>
             <size>4779378</size>
             <download-link>https://sourceforge.net/projects/viperos-roms/files/Addons/Magisk-uninstaller-20170320.zip/download</download-link>
+        </addon>
+         <addon>
+            <id>2</id>
+            <name>SuperSU PRO v2.79 SR4</name>
+            <description>SuperSU PRO v2.79 SR4 CWM\TWRP recovery</description>
+            <published-at>2017-05-15</published-at>
+            <size>5345372</size>
+            <download-link>http://l-rom.ru/SuperSU_PRO_v2.79SR4_Patched.zip</download-link>
         </addon>
     </addons>
 </hash>
