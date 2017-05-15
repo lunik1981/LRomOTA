@@ -2,7 +2,7 @@
 <ROM>
   <RomName>Validus_primel</RomName>
   <VersionName><![CDATA[ Validus-primel-7.1.2.RC ]]></VersionName>
-  <VersionNumber type="integer">20170518</VersionNumber>
+  <VersionNumber type="integer">20170517</VersionNumber>
   <DirectUrl>http://l-rom.ru/Validus-primel-7.1.2.RC_L-ROM.RU.14.2-UNOFFICIAL-20170515-1237.zip</DirectUrl>
   <HttpUrl>http://l-rom.ru/Validus-primel-7.1.2.RC_L-ROM.RU.14.2-UNOFFICIAL-20170515-1237.zip</HttpUrl>
   <Android>7.1.2</Android>
@@ -10,7 +10,8 @@
   <FileSize type="integer">450351176</FileSize>
   <Developer>Lunik (L-ROM.RU)</Developer>
   <AddonCount>1</AddonCount>
-  <AddonsURL>https://raw.githubusercontent.com/lunik1981/my-aex-ota/master/addons.xml</AddonsURL>
+  <AddonCount>2</AddonCount>
+  <AddonsURL>https://raw.githubusercontent.com/lunik1981/LRomOTA/master/addons.xml</AddonsURL>
   <WebsiteURL nil="true">http://l-rom.ru</WebsiteURL>
   <Changelog></Changelog>
 </ROM>
