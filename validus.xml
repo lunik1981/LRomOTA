@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName>Validus</RomName> <!-- Название прошивки -->
-  <VersionName>Validus-primel-7.1.2.RC</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
-  <VersionNumber type="integer">20170518</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-  <DirectUrl>http://l-rom.ru/Validus-primel-7.1.2.RC_L-ROM.RU.14.2-UNOFFICIAL-20170515-1237.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-  <HttpUrl>http://l-rom.ru/Validus-primel-7.1.2.RC_L-ROM.RU.14.2-UNOFFICIAL-20170515-1237.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
-  <Android>7.1.2</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
-  <CheckMD5>89daf54aacc60edf85a1c87b8ef4ed79</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
-  <FileSize type="integer">450351176</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
-  <Developer>Lunik</Developer> <!-- Ник, имя разработчика'ов -->
-  <WebsiteURL>http://l-rom.ru</WebsiteURL> <!-- Web сайт прошивки или чего нибудь другого, на усмотрение -->
-  <AddonCount>2</AddonCount>
-  <AddonsURL>
-  https://raw.githubusercontent.com/lunik1981/my-aex-ota/master/addons.xml
-  </AddonsURL>
-  <DonateURL>https://money.yandex.ru/to/410014048608604?_openstat=template%3Bipulldown%3Btopupme</DonateURL> <!-- Ссылка для установки реквезитов для пожертвований -->
-  <Changelog>### Изменения версии 13.05.17
-* Добавили "Дополнительные настройки"
-* Новая "Бутанимация от L-ROM.RU"
-* Обновлена ревизия на r_8
-* Обновлена "Система безопасности" Android от 2017-05-05
-* Полный перевод на Русский
-* Обновлена ревизия на r_8
-* Включены обновления по воздуху</Changelog> <!-- Список изменений, новой версии прошивки, пишем что нужно -->
+  <RomName>Validus</RomName>
+  <VersionName><![CDATA[ Validus-primel-7.1.2.RC ]]></VersionName>
+  <VersionNumber type="integer">20170518</VersionNumber>
+  <DirectUrl>http://l-rom.ru/Validus-primel-7.1.2.RC_L-ROM.RU.14.2-UNOFFICIAL-20170515-1237.zip</DirectUrl>
+  <HttpUrl>http://l-rom.ru/Validus-primel-7.1.2.RC_L-ROM.RU.14.2-UNOFFICIAL-20170515-1237.zip</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>823a196f261c589be3ce60e183abf858</CheckMD5>
+  <FileSize type="integer">450351176</FileSize>
+  <Developer>Lunik (l-romJ)</Developer>
+  <AddonCount>1</AddonCount>
+  <AddonsURL>https://raw.githubusercontent.com/lunik1981/my-aex-ota/master/addons.xml</AddonsURL>
+  <WebsiteURL nil="true">http://l-rom.ru</WebsiteURL>
+  <Changelog></Changelog>
 </ROM>
