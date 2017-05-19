@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>AospExtended-ROM-PRIME-L</RomName>
+  <VersionName><![CDATA[ RR-N-v5.8.3-20170518-primel-Official ]]></VersionName>
+  <VersionNumber type="integer">20170518</VersionNumber>
+  <DirectUrl>http://download.l-rom.ru/Validus-primel-7.1.2.RC_L-ROM.RU.14.2-UNOFFICIAL-20170516-1441.zip</DirectUrl>
+  <HttpUrl>http://download.l-rom.ru/Validus-primel-7.1.2.RC_L-ROM.RU.14.2-UNOFFICIAL-20170516-1441.zip</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>160746407f7ec1039cbdffcac11b37ba</CheckMD5>
+  <FileSize type="integer">476785935</FileSize>
+  <Developer>Lunik (L-ROM.RU)</Developer>
+  <AddonCount>1</AddonCount>
+  <AddonCount>2</AddonCount>
+  <AddonCount>3</AddonCount>
+  <AddonCount>4</AddonCount>
+  <AddonsURL>https://raw.githubusercontent.com/lunik1981/LRomOTA/master/addons.xml</AddonsURL>
+  <WebsiteURL nil="true">http://l-rom.ru</WebsiteURL>
+  <Changelog></Changelog>
+</ROM>
