@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName>Validus_primel</RomName>
-  <VersionName><![CDATA[ Validus-primel-7.1.2.RC ]]></VersionName>
-  <VersionNumber type="integer">20170517</VersionNumber>
+  <RomName>Validus_p8000</RomName>
+  <VersionName><![CDATA[ Validus_p8000-7.1.2.RC ]]></VersionName>
+  <VersionNumber type="integer">20170518</VersionNumber>
   <DirectUrl>http://download.l-rom.ru/Validus-primel-7.1.2.RC_L-ROM.RU.14.2-UNOFFICIAL-20170516-1441.zip</DirectUrl>
   <HttpUrl>http://download.l-rom.ru/Validus-primel-7.1.2.RC_L-ROM.RU.14.2-UNOFFICIAL-20170516-1441.zip</HttpUrl>
   <Android>7.1.2</Android>
