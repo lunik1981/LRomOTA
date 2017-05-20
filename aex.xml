@@ -2,7 +2,7 @@
 <ROM>
   <RomName>AospExtended-ROM-PRIME-L</RomName>
   <VersionName><![CDATA[ RR-N-v5.8.3-20170518-primel-Official ]]></VersionName>
-  <VersionNumber type="integer">20170518</VersionNumber>
+  <VersionNumber type="integer">20170521</VersionNumber>
   <DirectUrl>http://download.l-rom.ru/Validus-primel-7.1.2.RC_L-ROM.RU.14.2-UNOFFICIAL-20170516-1441.zip</DirectUrl>
   <HttpUrl>http://download.l-rom.ru/Validus-primel-7.1.2.RC_L-ROM.RU.14.2-UNOFFICIAL-20170516-1441.zip</HttpUrl>
   <Android>7.1.2</Android>
