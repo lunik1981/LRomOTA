@@ -5,33 +5,33 @@
             <id>1</id>
             <name>Magisk12.0</name>
             <description>MagiskMod</description>
-            <published-at>2017-04-04</published-at>
-            <size>3448152</size>
-            <download-link>http://download.l-rom.ru/Magisk-12.0.zip</download-link>
+            <published-at>2017-05-27</published-at>
+            <size>6450022</size>
+            <download-link>http://addons.l-rom.ru/Magisk-v12.0.zip</download-link>
         </addon>
          <addon>
             <id>2</id>
             <name>Magisk-uninstaller</name>
             <description>Magisk</description>
-            <published-at>2017-03-20</published-at>
+            <published-at>2017-05-27</published-at>
             <size>4779378</size>
-            <download-link>https://sourceforge.net/projects/viperos-roms/files/Addons/Magisk-uninstaller-20170320.zip/download</download-link>
+            <download-link>http://addons.l-rom.ru/Magisk-uninstaller-20170320.zip</download-link>
         </addon>
          <addon>
             <id>3</id>
             <name>SuperSU</name>
             <description>Root manager</description>
-            <published-at>AEX_version</published-at>
-            <size>5446811</size>
-            <download-link>http://download.l-rom.ru/supersu.zip</download-link>
+            <published-at>TWRP_version</published-at>
+            <size>5345372</size>
+            <download-link>http://addons.l-rom.ru/SuperSU_PRO_v2.79SR4_Patched.zip</download-link>
         </addon>
           <addon>
             <id>4</id>
             <name>SuperSU-uninstaller</name>
             <description>UNRoot manager</description>
-            <published-at>AEX_version</published-at>
+            <published-at>TWRP_version</published-at>
             <size>4855</size>
-            <download-link>http://download.l-rom.ru/UPDATE-unSU-signed.zip</download-link>
+            <download-link>http://addons.l-rom.ru/UPDATE-unSU-signed.zip</download-link>
         </addon>        
     </addons>
 </hash>
