@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>L-ROM-PRIME-L</RomName>
-  <VersionName><![CDATA[ L-ROM-PRIME-L-Official ]]></VersionName>
+  <VersionName><![CDATA[ L-ROM-N-COMMUNITY-20170530-1909-primel ]]></VersionName>
   <VersionNumber type="integer">20170618</VersionNumber>
-  <DirectUrl>http://download.l-rom.ru/Validus-primel-7.1.2.RC_L-ROM.RU.14.2-UNOFFICIAL-20170516-1441.zip</DirectUrl>
-  <HttpUrl>http://download.l-rom.ru/Validus-primel-7.1.2.RC_L-ROM.RU.14.2-UNOFFICIAL-20170516-1441.zip</HttpUrl>
+  <DirectUrl>http://primel.l-rom.ru/L-ROM-N-COMMUNITY-20170530-1909-primel.zip</DirectUrl>
+  <HttpUrl>http://primel.l-rom.ru/L-ROM-N-COMMUNITY-20170530-1909-primel.zip</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>160746407f7ec1039cbdffcac11b37ba</CheckMD5>
-  <FileSize type="integer">476785935</FileSize>
+  <FileSize type="integer">672512095</FileSize>
   <Developer>Lunik (L-ROM.RU)</Developer>
   <AddonCount>1</AddonCount>
   <AddonCount>2</AddonCount>
